@@ -6,3 +6,4 @@
 # Weaknesses
 
 - Git has many commands and concepts, which can make the first steps difficult to learn.
+- Merge conflicts need manual resolution when people change the same lines.
